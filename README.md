@@ -1,0 +1,1 @@
+# mysql-one-for-all
